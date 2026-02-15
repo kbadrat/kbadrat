@@ -1,16 +1,19 @@
-## Hi there 👋
+# Vladyslav Kovalets
 
-<!--
-**kbadrat/kbadrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack Software Engineer @ Cimpress Technology**
 
-Here are some ideas to get you started:
+##### BSc, Brno University of Technology | Faculty of Information Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Technical Stack
+
+* **Web Development:** TypeScript, React, Next.js, Node.js, HTML/CSS
+* **Backend & Data:** PostgreSQL, Drizzle ORM, Vitest
+* **Infrastructure & Cloud:** AWS, Terraform, Docker, CI/CD, New Relic
+* **Interest:** AI Integration in development workflows
+---
+
+> [!NOTE]
+> Most of my daily contributions and production code reside in the **private Cimpress GitLab instance**.  
+> **[GitLab profile](https://gitlab.com/vladyslav.kovalets)**
