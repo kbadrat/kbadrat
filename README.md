@@ -1,6 +1,6 @@
 # Vladyslav Kovalets
 
-**Full-stack Software Engineer @ Cimpress Technology**
+**Full-stack Software Engineer @ [Cimpress Technology](https://cimpress.com/)**
 
 ##### Bachelor’s Degree, Faculty of Information Technology, Brno University of Technology
 
