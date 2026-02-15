@@ -2,7 +2,7 @@
 
 **Full-stack Software Engineer @ Cimpress Technology**
 
-##### BSc, Brno University of Technology | Faculty of Information Technology
+##### Bachelor’s Degree, Faculty of Information Technology, Brno University of Technology
 
 ---
 
